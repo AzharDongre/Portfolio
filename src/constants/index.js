@@ -15,11 +15,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "August 2023 - April 2023",
-    role: "Full Stack Developer",
+    year: "August 2023 - April 2024",
+    role: "Software Developer",
     company: "Harrjika Infotech",
     description: `Led a team in developing and maintaining web applications using React Js, Tailwind Css, and Java 8. Implemented RESTful APIs and integrated with MySql databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["ReactJs", "Java 8", "Spring Boot", "Hibernate", "Mysql"],
+    technologies: ["ReactJs", "Java 8", "Spring Boot", "Hibernate", "Mysql, AWS, Docker"],
   },
   {
     year: "February 2022 - July 2023",
@@ -30,9 +30,9 @@ export const EXPERIENCES = [
   },
   {
     year: "August 2021 - January 2022",
-    role: "Java Developer(Intern)",
+    role: "Java Developer",
     company: "Seven Mentors Pvt. Ltd",
-    description: `Developed an E-Commerce project with the development team using Java 8. Implemented modules like user registration, product search, cart management, etc`,
+    description: `Developed modules of an web portal using Java 8, Spring Boot, Hibernate and Mysql. Tested the code by developing test cases and tested the APIs using Postmen. Provided technical support to the clients.`,
     technologies: ["Java 8", "Spring Boot", "Hibernate", "Mysql"],
   },
   {
